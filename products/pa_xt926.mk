@@ -31,9 +31,6 @@ include vendor/pa/config/pa_common.mk
 # Inherit AOSP device configuration
 $(call inherit-product, device/motorola/xt926/full_xt926.mk)
 
-# Product Package Extras - Repos can be added manually or via addprojects.py
--include vendor/pa/packages/xt926.mk
-
 # CM Extras
 -include vendor/pa/packages/cm.mk
 
