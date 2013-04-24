@@ -39,6 +39,6 @@ PRODUCT_NAME := pa_xt926
 PRODUCT_BRAND := Motorola
 PRODUCT_MODEL := Droid Razr Maxx HD
 PRODUCT_MANUFACTURER := Motorola
-PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=xt926 BUILD_FINGERPRINT=motorola/XT926_verizon/vanquish:4.2.2/9.8.1Q_37/39:user/release-keys"
+PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=xt926 BUILD_FINGERPRINT=motorola/XT926_verizon/vanquish:4.2.2/9.8.1Q_37/39:user/release-keys
 
 endif
